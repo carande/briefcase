@@ -24,9 +24,9 @@ I value working on high-performing teams, and I am comfortable with roles from t
   : **BAE Systems**
   : **Aug 2025 - Present**
 
-- developed Kubernetes-based test infrastructure to measure mission-specific algorithm performance (ie tracking algorithms)
-- technical lead on newly formed infrastructure team; identified knowledge gaps and provided team training and mentorship
-- Identified and documented best practices for a mission analysis toolset, filling a gap in training materials available for new analysts
+- Developed Kubernetes-based test infrastructure to measure mission-specific algorithm performance (ie tracking algorithms).  
+- Technical lead on newly formed infrastructure team; identified knowledge gaps and provided team training and mentorship.  Increasing responsibility in product owner role for Algorithm test platform (manage requirements and needs from programs, roadmap technical milestones, setting team priorities).
+- Identified and documented best practices for a mission analysis toolset, filling a gap in training materials available for new analysts.
 
 **Staff R&D Scientist**
   : **Maxar Technologies**
