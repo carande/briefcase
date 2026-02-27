@@ -13,9 +13,7 @@
 My interest is to develop and operate technology for space systems, and to advance our understanding of the Earth.
 I am a generalist with a wide background in physical sciences, software engineering, and remote sensing.
 
-My recent focus has been been microservice software systems and satellite mission analysis workflows.  
-
-I value working on high-performing teams, and I am comfortable with roles from troubleshooting and writing code, to making technical design decisions and strategic roadmaps, to coordinating tasks and providing team leadership.  
+My recent focus has been been microservice software systems and satellite mission analysis workflows.  I value working on high-performing teams, and I am comfortable with roles from troubleshooting and writing code, to making technical and strategic design decisions, to coordinating tasks and providing team leadership.  
 
 
 ## Experience
@@ -24,9 +22,9 @@ I value working on high-performing teams, and I am comfortable with roles from t
   : **BAE Systems**
   : **Aug 2025 - Present**
 
-- Developed Kubernetes-based test infrastructure to measure mission-specific algorithm performance (ie tracking algorithms).  
-- Technical lead on newly formed infrastructure team; identified knowledge gaps and provided team training and mentorship.  Increasing responsibility in product owner role for Algorithm test platform (manage requirements and needs from programs, roadmap technical milestones, setting team priorities).
-- Identified and documented best practices for a mission analysis toolset, filling a gap in training materials available for new analysts.
+- Determined system requirements and developed a Kubernetes-based test infrastructure for measuring mission-specific algorithm performance (ie tracking algorithms)
+- Technical lead on newly formed infrastructure team; identified knowledge gaps and provided team training and mentorship
+- Identified and documented best practices for a mission analysis toolset, filling a gap in training materials available for new analysts
 
 **Staff R&D Scientist**
   : **Maxar Technologies**
@@ -44,8 +42,8 @@ I value working on high-performing teams, and I am comfortable with roles from t
   : **Jun 2016 - Jan 2019**
 
 - Engineer for an Agile-Scrum software team in the mission planning (tasking) domain
-- Responsible for design, dev, deployment, and support of microservices in Java and Python, as well as front-end UIs
-- Learned and utilized our common CI/CD infrastructure stack (Github, Artifactory, Jenkins, Kubernetes, AWS)
+- Responsible for design, dev, deployment, and support of microservices in Java and Python, as well as GUIs
+- Learned and utilized our common CI/CD infrastructure stack (GitHub, Artifactory, Jenkins, Kubernetes, AWS)
 
 
 **Software Engineer**
@@ -87,7 +85,6 @@ design exercise Planetary and Space Science · Feb 1, 2013
 <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Python, 
 <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java,
 <span class="iconify" data-icon="logos:postgresql" data-inline="false"></span> SQL
-
 
 **Tools and Frameworks:** ElasticStack (Filebeat, Kibana), Git, Kubernetes, AWS, Jenkins, NumPy, Pandas, GeoPandas, Shapely, Jupyter 
 
