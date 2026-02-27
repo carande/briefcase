@@ -9,11 +9,13 @@
   : <span class="iconify" data-icon="tabler:mail"></span> [bcarande@gmail.com](mailto:bcarande@gmail.com)
 
 
-## 
-My interest is to develop and operate technology for space systems, and to advance our understanding of the Earth.
-I am a generalist with a wide background in physical sciences, software engineering, and remote sensing.
+## Professional Summary
+My interest is to develop new technology for space systems, and to advance our understanding of the Earth.  
+I am a technical leader with 10+ years experience on software development teams, and a broad background in physical sciences, data engineering, and satellite remote sensing.
 
-My recent focus has been been microservice software systems and satellite mission analysis workflows.  I value working on high-performing teams, and I am comfortable with roles from troubleshooting and writing code, to making technical and strategic design decisions, to coordinating tasks and providing team leadership.  
+I value working on high-performing teams, and I provide leadership to move projects forward.  I have deep experience with the Agile development process, and am comfortable leading code reviews, scrum meetings, quarterly planning, technical demos, and team retros.  
+
+My technical involvement has spanned the software dev-ops lifecycle process, from prototyping algorithms, to microservice design and deployment, to proactive system monitoring and operational incident analysis.  I have experience with product ownership of internal-use software tools and GUIs, including soliciting customer feedback, feature planning and prioritization, and fostering cross-team collaboration.
 
 
 ## Experience
@@ -22,16 +24,16 @@ My recent focus has been been microservice software systems and satellite missio
   : **BAE Systems**
   : **Aug 2025 - Present**
 
-- Determined system requirements and developed a Kubernetes-based test infrastructure for measuring mission-specific algorithm performance (ie tracking algorithms)
-- Technical lead on newly formed infrastructure team; identified knowledge gaps and provided team training and mentorship
-- Identified and documented best practices for a mission analysis toolset, filling a gap in training materials available for new analysts
+- Determined system requirements and developed a test infrastructure for evaluating algorithm performance
+- Technical lead on newly formed infrastructure team
+- Identified knowledge gaps and provided team training, mentorship, and improved documentation resources
 
 **Staff R&D Scientist**
   : **Maxar Technologies**
   : **Jan 2019 - May 2025**
 
 - Analyzed performance of the Constellation Scheduling System for Worldview operations
-- Assessed impacts of operational changes to satellites (GNC degredation, orbit changes, etc)
+- Assessed impacts of operational changes to satellites (GNC degradation, orbit changes, etc)
 - Implemented a python-based analytics toolset to load, process, and visualize data across several domains.
 - Orchestrated system tests using synthetic data to measure the effect of software and parameter changes.
 - Lead developer and product owner for an internal-use GUI to show potential imaging opportunities for a location.
@@ -52,8 +54,7 @@ My recent focus has been been microservice software systems and satellite missio
 
 - Full-stack development of a web application for a blog intelligence platform
 - Contributed to user-facing front end (Angular) as well as distributed big-data processing back end (Java, Hadoop, Solr)
-- Implemented a system health monitor for on-prem server cluster proactively tracking hardware health, system compute
-resources, automated processes, and job throughput.
+- Implemented a system health monitor for on-prem server cluster proactively tracking hardware health, system compute resources, automated processes, and job throughput.
 
 
 **Geophysical Software Developer**
@@ -86,11 +87,11 @@ design exercise Planetary and Space Science · Feb 1, 2013
 <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java,
 <span class="iconify" data-icon="logos:postgresql" data-inline="false"></span> SQL
 
-**Tools and Frameworks:** ElasticStack (Filebeat, Kibana), Git, Kubernetes, AWS, Jenkins, NumPy, Pandas, GeoPandas, Shapely, Jupyter 
+**Tools and Frameworks:** ElasticStack, GitLab, Kubernetes, AWS, NumPy, Pandas, Jupyter Notebooks
 
-**Software Patterns:** Microservices, API documentation, distributed systems, REST, Linux, Bash, Async processing
+**Software Patterns:** Microservices, API documentation, distributed systems, REST, Linux, Bash, Async processing, Log aggregation and data mining, Metrics postprocessing and visualization, Data provenance and traceability
 
-<!-- Commenting out publications - add if epecially relevant
+<!-- Commenting out publications - add if especially relevant
 thesis reference format: ([~P1])
 
 ## Publications
